@@ -6,4 +6,4 @@ cd byol-a
 pip install -r requirements.txt
 cd ../..
 mv ext/byol-a ext/byol_a
-mv ext/byol-a/pretrained_weights/AudioNTT2020-BYOLA-64x96d2048.pth ./models
+mv ext/byol_a/pretrained_weights/AudioNTT2020-BYOLA-64x96d2048.pth ./models
